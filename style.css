@@ -29,7 +29,7 @@ html, body, .home {
 	height: 42px;
 	width: 134px;
 	display: block;
-	background: url('images/spotify.svg') no-repeat;
+	background: url('Images/spotify.svg') no-repeat;
 	background-size: contain;
 	color: transparent;
 }
